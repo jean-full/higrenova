@@ -47,6 +47,12 @@ header .titulo-1 {
 .contato {
     margin-top: 10px;
 }
+.icones a {
+    color: white;
+}
+.tel {
+    text-align: center;
+}
 
 .landing {
     background-image: url('./img/upholster_217134575-690x461.jpeg');
